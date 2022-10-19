@@ -1,0 +1,15 @@
+C:\Users\Administrator\day1\src1\bin\Debug\net6.0\src1.exe
+C:\Users\Administrator\day1\src1\bin\Debug\net6.0\src1.deps.json
+C:\Users\Administrator\day1\src1\bin\Debug\net6.0\src1.runtimeconfig.json
+C:\Users\Administrator\day1\src1\bin\Debug\net6.0\src1.dll
+C:\Users\Administrator\day1\src1\bin\Debug\net6.0\src1.pdb
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.csproj.AssemblyReference.cache
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.AssemblyInfoInputs.cache
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.AssemblyInfo.cs
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.dll
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\refint\src1.dll
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.pdb
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\src1.genruntimeconfig.cache
+C:\Users\Administrator\day1\src1\obj\Debug\net6.0\ref\src1.dll
